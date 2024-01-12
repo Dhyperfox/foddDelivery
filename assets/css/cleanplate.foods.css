@@ -1,0 +1,33 @@
+body {
+    background-image: url("../img/coverbg-p-gb15px.jpg");
+}
+
+.category-holder {
+    z-index: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.category-holder:hover {
+    animation: category-blur ease-in-out 0.5s;
+    animation-fill-mode: forwards;
+}
+.category-holder p {
+    animation: category-blur ease-in-out 0.5s;
+    animation-fill-mode: forwards;
+}
+
+.category-name {
+    filter: brightness(100%);
+    color: white;
+    height: 1px;
+    width: 20px;
+    opacity: 1;
+}
+.cf{
+    background: url("../img/f_holder.jpg");
+    image-rendering: crisp-edges;
+    background-size: 1300px;
+}

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c34b839b-5453-447b-aa12-dd272791d0f3" name="Default Changelist" comment="Változtatások :&#10;- Kisebb kategória képek, sávszélességmegtakarítás végett&#10;- Kezdő állapotú &quot;User Settings&quot; menű">
+      <change afterPath="$PROJECT_DIR$/cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/anim.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/anim.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/cleanplate.foods.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/cleanplate.foods.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Cat-Burger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Cat-Dessert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Cat-Drink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Cat-Meat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Cat-Pizza.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Cat-Soup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/cat/pizzas/pizza-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/cat/pizzas/pizza-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/cleanplate.notify.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/cleanplate.notify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/categories.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout.php" beforeDir="false" afterPath="$PROJECT_DIR$/checkout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodselection.php" beforeDir="false" afterPath="$PROJECT_DIR$/foodselection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login1.php" beforeDir="false" afterPath="$PROJECT_DIR$/login1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register3.php" beforeDir="false" afterPath="$PROJECT_DIR$/register3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selected.php" beforeDir="false" afterPath="$PROJECT_DIR$/selected.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/settings.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../php/PEAR" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1skP7lUSXRG451USTHz2DXb1srv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CP\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c34b839b-5453-447b-aa12-dd272791d0f3" name="Default Changelist" comment="" />
+      <created>1621413448418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621413448418</updated>
+      <workItem from="1621413449492" duration="1214000" />
+      <workItem from="1621420868997" duration="21000" />
+      <workItem from="1621425648149" duration="6020000" />
+      <workItem from="1621495699365" duration="6795000" />
+      <workItem from="1621513626658" duration="630000" />
+      <workItem from="1621521126962" duration="44000" />
+      <workItem from="1621591286973" duration="323000" />
+      <workItem from="1621596051674" duration="443000" />
+      <workItem from="1621608744704" duration="538000" />
+      <workItem from="1621772771504" duration="12000" />
+      <workItem from="1621772859394" duration="99000" />
+      <workItem from="1621781005623" duration="657000" />
+      <workItem from="1622225423442" duration="115000" />
+      <workItem from="1622285837938" duration="1518000" />
+      <workItem from="1622289636530" duration="6104000" />
+      <workItem from="1622300490094" duration="107000" />
+      <workItem from="1622301955505" duration="4762000" />
+      <workItem from="1622389862726" duration="430000" />
+      <workItem from="1622832941265" duration="616000" />
+      <workItem from="1622915040763" duration="129000" />
+      <workItem from="1623161824000" duration="14000" />
+      <workItem from="1623162796402" duration="612000" />
+      <workItem from="1623221300591" duration="3641000" />
+      <workItem from="1623240434057" duration="8813000" />
+      <workItem from="1623259087910" duration="5302000" />
+      <workItem from="1623268778811" duration="6301000" />
+      <workItem from="1623307620867" duration="5164000" />
+      <workItem from="1623321016604" duration="4314000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test Commit by Norbert.">
+      <created>1621413657965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621413657965</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test Commit by Norbert.">
+      <created>1621425748242</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621425748242</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Változtatások :&#10;- Az ételek mostmár kilistázhatóak&#10;- Mappák átkategorizálása&#10;- Kisebb változtatások kód szinten">
+      <created>1621431577316</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621431577316</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Változtatások:&#10;- Több teszt elem hozzáadva&#10;- Egyszerűsített AJAX jQuery-vel&#10;- Design változtatások">
+      <created>1621502831165</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621502831165</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Exportálási hiba javítása">
+      <created>1621503096570</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621503096570</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Apró változtatások.">
+      <created>1621781261515</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1621781261515</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Változtatások : &#10;- A legördülő menü csak bejelentkezés után elérhető (ahol a felhasználó a beállításokat/rendeléseket/kijelentkezést éri el).&#10;- Kijelentkezési rendszer">
+      <created>1622291288874</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622291288874</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Változtatások :&#10;- Kisebb kategória képek, sávszélességmegtakarítás végett&#10;- Kezdő állapotú &quot;User Settings&quot; menű">
+      <created>1622389984928</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622389984928</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test Commit by Norbert." />
+    <MESSAGE value="Változtatások :&#10;- Az ételek mostmár kilistázhatóak&#10;- Mappák átkategorizálása&#10;- Kisebb változtatások kód szinten" />
+    <MESSAGE value="Változtatások:&#10;- Több teszt elem hozzáadva&#10;- Egyszerűsített AJAX jQuery-vel&#10;- Design változtatások" />
+    <MESSAGE value="Exportálási hiba javítása" />
+    <MESSAGE value="Apró változtatások." />
+    <MESSAGE value="Változtatások : &#10;- A legördülő menü csak bejelentkezés után elérhető (ahol a felhasználó a beállításokat/rendeléseket/kijelentkezést éri el).&#10;- Kijelentkezési rendszer" />
+    <MESSAGE value="Változtatások :&#10;- Kisebb kategória képek, sávszélességmegtakarítás végett&#10;- Kezdő állapotú &quot;User Settings&quot; menű" />
+    <option name="LAST_COMMIT_MESSAGE" value="Változtatások :&#10;- Kisebb kategória képek, sávszélességmegtakarítás végett&#10;- Kezdő állapotú &quot;User Settings&quot; menű" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621500354144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621500354144" />
+    <state x="129" y="189" width="1736" height="856" key="DiffContextDialog" timestamp="1621502852093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="129" y="189" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621502852093" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1623161835177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1623161835177" />
+    <state x="-1126" y="443" key="NewPhpFileDialog" timestamp="1623310392152">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1126" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1623310392152" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1623243275970" />
+    <state x="818" y="222" width="585" height="596" key="RollbackChangesDialog" timestamp="1621503042513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="222" width="585" height="596" key="RollbackChangesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621503042513" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1622389989134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622389989134" />
+    <state x="92" y="92" width="1736" height="856" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1623274798254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1623274798254" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621502839009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621502839009" />
+    <state x="-1628" y="0" width="1518" height="1028" maximized="true" key="dock-window-1" timestamp="1623322939243">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1628" y="0" width="1518" height="1028" maximized="true" key="dock-window-1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1623322939243" />
+    <state x="802" y="-10" width="1403" height="1028" maximized="true" key="dock-window-2" timestamp="1621496185714">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="802" y="-10" width="1403" height="1028" maximized="true" key="dock-window-2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1621496185714" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1622286722395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622286722395" />
+  </component>
+</project>

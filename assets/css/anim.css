@@ -1,0 +1,56 @@
+@keyframes category-blur {
+    0% {
+        filter: brightness(100%);
+    }
+    100% {
+        filter: brightness(60%);
+    }
+
+}
+@keyframes category-text {
+    0% {
+        filter: brightness(60%);
+    }
+    100% {
+        filter: brightness(100%);
+    }
+
+}
+@keyframes load-effect {
+    0% {
+        opacity: 0%;
+    }
+    100% {
+        opacity: 100%;
+    }
+
+}
+#container-holder {
+    scroll-behavior: smooth;
+    animation: load-effect ease-in 0.2s;
+    filter:brightness(100%);
+    opacity: 100%;
+}
+
+@keyframes blurIn {
+    0%{
+        filter: blur(0px);
+        filter: brightness(100%);
+    }
+    100%{
+        filter: blur(2px);
+        filter: brightness(70%);
+    }
+
+}
+@keyframes blurOut {
+    0%{
+        filter: blur(2px);
+        filter: brightness(70%);
+    }
+    100%{
+        filter: blur(0px);
+        filter: brightness(100%);
+    }
+
+}
